@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Fruits & Vegetables",
+    "description": "Fresh produce from Dutch farms",
+    "image": "https://images.pexels.com/photos/1508666/pexels-photo-1508666.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 2,
+    "name": "Dairy & Eggs",
+    "description": "Premium dairy products and farm-fresh eggs",
+    "image": "https://images.pexels.com/photos/4109998/pexels-photo-4109998.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 3,
+    "name": "Snacks & Beverages",
+    "description": "Authentic Dutch treats and drinks",
+    "image": "https://images.pexels.com/photos/3850512/pexels-photo-3850512.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 4,
+    "name": "Bakery & Grains",
+    "description": "Freshly baked bread and wholesome grains",
+    "image": "https://images.pexels.com/photos/1775043/pexels-photo-1775043.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 5,
+    "name": "Household Essentials",
+    "description": "Quality products for your home",
+    "image": "https://images.pexels.com/photos/4107120/pexels-photo-4107120.jpeg?auto=compress&cs=tinysrgb&w=800"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "Dutch Gouda Cheese",
+    "description": "Authentic aged Gouda cheese imported directly from the Netherlands. Rich, creamy texture with a nutty flavor.",
+    "price": 12.99,
+    "salePrice": null,
+    "category": "Dairy & Eggs",
+    "stock": 25,
+    "image": "https://images.pexels.com/photos/821365/pexels-photo-821365.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 2,
+    "title": "Stroopwafels",
+    "description": "Traditional Dutch caramel-filled waffle cookies. Perfect with coffee or tea.",
+    "price": 8.99,
+    "salePrice": 6.99,
+    "category": "Snacks & Beverages",
+    "stock": 50,
+    "image": "https://images.pexels.com/photos/890577/pexels-photo-890577.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 3,
+    "title": "Fresh Dutch Tomatoes",
+    "description": "Vine-ripened tomatoes grown in Dutch greenhouses. Sweet and juicy.",
+    "price": 4.99,
+    "salePrice": null,
+    "category": "Fruits & Vegetables",
+    "stock": 40,
+    "image": "https://images.pexels.com/photos/1327838/pexels-photo-1327838.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 4,
+    "title": "Whole Grain Dutch Bread",
+    "description": "Freshly baked whole grain bread with seeds. Hearty and nutritious.",
+    "price": 6.49,
+    "salePrice": 5.49,
+    "category": "Bakery & Grains",
+    "stock": 20,
+    "image": "https://images.pexels.com/photos/1775043/pexels-photo-1775043.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 5,
+    "title": "Dutch Chocolate Sprinkles",
+    "description": "Hagelslag! Pure chocolate sprinkles for your bread. A Dutch breakfast staple.",
+    "price": 5.99,
+    "salePrice": null,
+    "category": "Snacks & Beverages",
+    "stock": 60,
+    "image": "https://images.pexels.com/photos/4686957/pexels-photo-4686957.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 6,
+    "title": "Organic Free-Range Eggs",
+    "description": "Farm-fresh organic eggs from happy Dutch hens. Rich, golden yolks.",
+    "price": 7.99,
+    "salePrice": 6.99,
+    "category": "Dairy & Eggs",
+    "stock": 35,
+    "image": "https://images.pexels.com/photos/1556707/pexels-photo-1556707.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 7,
+    "title": "Dutch Tulip Dishcloths",
+    "description": "Eco-friendly reusable dishcloths with traditional tulip patterns.",
+    "price": 9.99,
+    "salePrice": 7.99,
+    "category": "Household Essentials",
+    "stock": 30,
+    "image": "https://images.pexels.com/photos/6195119/pexels-photo-6195119.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 8,
+    "title": "Crisp Dutch Apples",
+    "description": "Sweet and crunchy Elstar apples from Dutch orchards. Perfect for snacking.",
+    "price": 5.49,
+    "salePrice": null,
+    "category": "Fruits & Vegetables",
+    "stock": 45,
+    "image": "https://images.pexels.com/photos/206959/pexels-photo-206959.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 9,
+    "title": "Dutch Butter Cookies",
+    "description": "Buttery, crumbly cookies made with real Dutch butter. Melt-in-your-mouth delicious.",
+    "price": 7.49,
+    "salePrice": null,
+    "category": "Bakery & Grains",
+    "stock": 28,
+    "image": "https://images.pexels.com/photos/230325/pexels-photo-230325.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": 10,
+    "title": "Peppermint Tea",
+    "description": "Refreshing peppermint herbal tea. Naturally caffeine-free and soothing.",
+    "price": 6.99,
+    "salePrice": 5.49,
+    "category": "Snacks & Beverages",
+    "stock": 40,
+    "image": "https://images.pexels.com/photos/1417945/pexels-photo-1417945.jpeg?auto=compress&cs=tinysrgb&w=800"
+  }
+]
